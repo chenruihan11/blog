@@ -380,5 +380,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://github.com/chenruihan11/chenruihan11.github.io.git
+  repo: git@github.com:chenruihan11/chenruihan11.github.io.git
   branch: main
