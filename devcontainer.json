@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "chenruihan11/chenruihan11.github.io": {
+         "permissions": "write-all" 
+        }
+      }
+    }
+  }
+}

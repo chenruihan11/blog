@@ -1,1 +1,1 @@
-# blog
+hexo template for chenruihan11.github.io
