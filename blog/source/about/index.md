@@ -1,75 +1,93 @@
 ---
 layout: "about"
 title: "About"
-date: 2016-04-21 04:48:33
-description: "那些年吹过的牛逼，还有很多没有实现 ......"
-header-img: "img/scenery/about_bg.jpg"
+date: 2023-06-06 16:06:06
+description: "人生は前向き、温泉は横向き"
+header-img: "img/scenery/4.jpg"
 ---
+# 陳　瑞涵　 Chen Ruihan　チン ズイカン
 
-## Talk To Me
+東京大学大学院工学系研究科建築学専攻　技術職員
 
-> I always say to myself :
->
-> if my life is peaceful and plain sailing all the time ,
->
-> it means to die in the electrocardiogram …
+<img src="/img/scenery/8.jpg" width="320" alt="8.jpg"></img>
 
+専門：建築構造　　連絡先：chenruihan@arch1.t.u-tokyo.ac.jp　　所属学会：日本建築学会
 
+### 学歴
 
-## Just Me
+2009.09－2013.07　長江大学　城市建設学部　土木工程（建築方向）　卒業
 
-<img src="/img/scenery/about_bg2.jpg" width="350" alt="about_bg2"></img>
+2013.10－2015.03　九州大学　人間環境学府　空間システム　研究生課程修了
 
-> 有一种状态 叫一个人 它总是挑战语言的贫乏 只能在某首歌中找寻灵感；
->
-> 有一种氨基酸 叫多巴胺 你不知道它何时会在你体内产生；
->
-> 有一种上瘾 叫抽烟 其实你抽的只是心情 又或是寂寞；
->
-> 有一种态度 叫纹身 其实我们只是想与众不同；
->
-> 有一种经历 叫旅行 年轻只有一次 不出去走走 或许以为眼前的就是世界；
->
-> 有一种人生 叫心电图 如果你总是一帆风顺 那么你就挂了；
->
-> 有一种悠闲 叫 " 老板给我杯Cappuccino " 香香甜甜 浓郁中带着苦涩 醇和而隽永 …
+2015.04－2017.03　長崎大学　工学研究科 総合工学専攻　構造工学コース　修士課程修了
 
+### 学位
 
+学士（工学）　2013.07　長江大学
 
-## The Longest Way ...
+修士（工学）　2017.03　長崎大学
 
-<img src="/img/scenery/about_bg4.jpg" width="350" alt="about_bg4"></img>
+論文題目：角形断面を有するコンクリート充填鋼管短柱の弾塑性性状
 
->  活在当下 然后忘记 继续往前走 ...
->
->  即便是一个人 ...
->
->  On the way to meet myself …
+### 職歴
 
+2017.04－2018.12　鉄建建設株式会社　九州支店　施工管理グループ
+   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（15階 RC造 マンション・11階 S造 ホテル）
 
-## Follow With Interest Blogs
+2019.01－2021.08　鉄建建設株式会社　九州支店　リニューアルグループ
 
-> Neo Peng：https://zhile.io
->
-> 李卫民：https://www.funtl.com/zh/guide
->
-> duanxz：https://www.cnblogs.com/duanxz/tag
->
-> Java1234_小锋：http://blog.java1234.com/index.html
->
-> Deserts：https://deserts.io
->
-> Super Snail：https://www.dusign.net
->
-> KIERAN'S BLOG：https://go.kieran.top
->
-> Mr.Seven：https://itimetraveler.github.io
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（建物撤去・外壁改修・12階 RC造 マンション・倉庫新設）
 
-## Contact me
+2021.09－2022.01　鉄建建設株式会社 関越支店 施工管理グループ
 
-> Email：601521821@qq.com
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（新潟駅高架化本屋新設他）
 
-## Treat me to coffee
->  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
+2022.04－ &emsp;&emsp;&emsp;       　東京大学大学院工学系研究科建築学専攻　技術職員
 
-<img src="/img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+### 資格
+
+2017.04－　足場の組立て等特別教育・クレーン特別教育
+
+2018.01－　フルハーネス型安全帯等特別教育・乙種防火管理
+
+2019.11－　日本語能力試験N1・ビジネス日本語試験J2
+
+2020.01－　玉掛け
+
+2021.01－　コンクリート技士・1級建築施工管理技士補・足場点検実務者・
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;統括安全衛生責任者・小型車両系（3トン未満）特別教育
+
+2022.02－　1級建築施工管理技士・CFT造施工管理技術者・
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;万能材料試験機（300KN）・試験機操作責任者・
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;床上操作式クレーン・フォークリフト
+
+### 研究実績
+
+1）陳瑞涵、中原浩之、富松輝彦、窪寺弘顕、武田亮太、大野敦弘：長方形と正方形断面をもつCFT短柱のせん断性状に関する実験的研究（その1　実験の方法と結果）、日本建築学会研究報告九州支部、第55号、pp.561-564、2016.3
+
+2）中原浩之、陳瑞涵、富松輝彦、窪寺弘顕、武田亮太、大野敦弘：長方形と正方形断面をもつCFT短柱のせん断性状に関する実験的研究（その2　実験結果の考察）、日本建築学会研究報告九州支部、第55号、pp.564-568、2016.3
+
+3）陳瑞涵、中原浩之、大野敦弘：せん断破壊が先行するコンクリート充填鋼管短柱の弾塑性性状、日本建築学会研究報告九州支部、第56号、pp.517-520、2017.3
+
+4）陳瑞涵、中原浩之、大野敦弘：データベースを用いたコンクリート充填角形鋼管短柱のせん断終局強度の検討、日本建築学会研究報告九州支部、第56号、pp.521-524、2017.3
+
+5）陳瑞涵、中原浩之、大野敦弘、小田鈴夏：角形断面を有するコンクリート充填鋼管短柱の正負交番せん断載荷実験、長崎大学工学研究科研究報告、Vol.47、No.88、pp.47-53、2017.1
+
+### リンク
+
+T-BOX：https://sites.google.com/arch1.t.u-tokyo.ac.jp/t-box
+
+東京大学大学院工学系研究科建築学専攻：https://arch.t.u-tokyo.ac.jp/
+
+東京大学大学院工学系研究科技術部：http://www.ttc.t.u-tokyo.ac.jp/
+
+日本建築学会：https://www.aij.or.jp/
+
+新都市ハウジング協会：https://anuht.or.jp/
+
+CiNii Research：https://cir.nii.ac.jp/all?q=%E9%99%B3%E7%91%9E%E6%B6%B5&count=20&sortorder=0
+
