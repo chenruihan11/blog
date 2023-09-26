@@ -24,16 +24,16 @@ langselect:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://chenruihan11.github.io      # Note: don't forget to modify the CNAME file to your url
 root: /
-permalink: :lang/:title/
+permalink: :title/
 permalink_defaults:
 
 # CDN Setting
 ## Docs: https://www.jsdelivr.com/?docs=gh
 ## If Github Pages deploy，you can ues jsdelivr settings
 #
-# jsdelivr:
-#   jsdelivr_url: https://cdn.jsdelivr.net/gh/
-#   github_username: V-Vincen
+#jsdelivr:
+#  jsdelivr_url: https://cdn.jsdelivr.net/gh/
+#  github_username: V-Vincen
 
 
 # Custom Setting Start
@@ -41,8 +41,8 @@ permalink_defaults:
 # Site settings
 SEOTitle: 陳瑞涵
 email: chenruihan11@gmail.com
-description: ""
-keyword: ""
+description: "陳瑞涵 ブログ"
+keyword: "chenruihan11,chenruihan,blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
