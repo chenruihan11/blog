@@ -81,6 +81,10 @@ header-img: "img/scenery/4.jpg"
 
 ### リンク
 
+researchmap：https://researchmap.jp/chenruihan
+
+CiNii Research：https://cir.nii.ac.jp/all?q=%E9%99%B3%E7%91%9E%E6%B6%B5&count=20&sortorder=0
+
 T-BOX：https://sites.google.com/arch1.t.u-tokyo.ac.jp/t-box
 
 東京大学大学院工学系研究科建築学専攻：https://arch.t.u-tokyo.ac.jp/
@@ -91,5 +95,4 @@ T-BOX：https://sites.google.com/arch1.t.u-tokyo.ac.jp/t-box
 
 新都市ハウジング協会：https://anuht.or.jp/
 
-CiNii Research：https://cir.nii.ac.jp/all?q=%E9%99%B3%E7%91%9E%E6%B6%B5&count=20&sortorder=0
 
