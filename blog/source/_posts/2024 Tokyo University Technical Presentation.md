@@ -10,4 +10,4 @@ tags:
 categories: Lifestyle
 ---
 
-#### 2024年3月19日（火）　東京大学技術発表会にて口頭発表させていただきました。https://ts.engineers.u-tokyo.ac.jp/2024/presentation_oral.html  Stay hungry
+#### 2024年3月19日（火）　東京大学技術発表会にて口頭発表させていただきました。
