@@ -3,7 +3,7 @@ title: '東大ドローン技術研修・北海道旅'
 catalog: true
 date: 2024-07-07 09:25:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 東京大学 
   - 技術

@@ -3,7 +3,7 @@ title: '2023年度御挨拶'
 catalog: true
 date: 2023-04-01 20:36:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 東京大学 
   - 建築学

@@ -3,7 +3,7 @@ title: '建築の管理及び維持修繕'
 catalog: true
 date: 2023-07-11 9:50:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 建築
 categories: Lifestyle

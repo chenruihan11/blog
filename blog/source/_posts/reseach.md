@@ -3,7 +3,7 @@ title: '科研費応募資格の取得'
 catalog: true
 date: 2023-11-07 11:28:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 研究
 categories: work

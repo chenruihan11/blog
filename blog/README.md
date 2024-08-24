@@ -158,7 +158,7 @@ email: hexo-theme-livemylife@mail.com
 description: "It's an IT blog..."
 keyword: "Java,v-vincen,v-vincen,livemylife,IT  blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
-archives-img: img/header_img/archive_bg2.jpg
+archives-img: img/header_img/archive_bg.jpg
 ```
 
 ### Favicon Settings

@@ -3,7 +3,7 @@ title: '新居入居'
 catalog: true
 date: 2023-07-02 21:26:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 新居
 categories: Lifestyle

@@ -3,7 +3,7 @@ title: '2024年東京大学技術発表会'
 catalog: true
 date: 2024-03-19 20:36:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 東京大学 
   - 技術

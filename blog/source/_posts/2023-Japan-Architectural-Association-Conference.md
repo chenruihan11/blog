@@ -3,7 +3,7 @@ title: '2023年日本建築学会大会'
 catalog: true
 date: 2023-09-15 18:50:12
 subtitle:
-header-img:
+header-img: /img/header_img/post_bg.jpg
 tags: 
   - 建築学
 categories: Lifestyle
